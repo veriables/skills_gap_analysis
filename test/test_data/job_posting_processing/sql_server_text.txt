@@ -1,0 +1,3 @@
+ I think Microsoft SQL Server is a great tool for business. MSSQL is used in almost every industry.
+ Due to the wide adoption of MSSQL, T-SQL has become the flavour of SQL known by most developers.
+ I am kind of a SQL Server fanboy.
